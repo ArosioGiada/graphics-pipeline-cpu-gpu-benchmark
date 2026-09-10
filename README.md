@@ -41,7 +41,7 @@ setup overhead.
 
 ## Files
 
-- [`Interactive Theory Exploration.pdf`](./Interactive%20Theory%20Exploration.pdf) — full report with methodology, all pipeline step outputs, benchmark tables, graphs, and reflection
+- [`interactive-theory-exploration.pdf`](./interactive-theory-exploration.pdf) — full report with methodology, all pipeline step outputs, benchmark tables, graphs, and reflection
 
 ## Tools used
 
